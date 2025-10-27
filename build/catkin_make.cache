@@ -1,0 +1,2 @@
+Bank:BankService
+-DCATKIN_DEVEL_PREFIX=/home/kali_zico/Desktop/Abhinara-1_Internship_Day3/assignment/devel -DCMAKE_INSTALL_PREFIX=/home/kali_zico/Desktop/Abhinara-1_Internship_Day3/assignment/install -G Unix Makefiles

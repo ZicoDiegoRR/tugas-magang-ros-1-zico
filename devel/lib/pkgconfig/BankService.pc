@@ -1,0 +1,8 @@
+prefix=/home/kali_zico/Desktop/Abhinara-1_Internship_Day3/assignment/devel
+
+Name: BankService
+Description: Description of BankService
+Version: 0.0.0
+Cflags: -I/home/kali_zico/Desktop/Abhinara-1_Internship_Day3/assignment/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp std_msgs
